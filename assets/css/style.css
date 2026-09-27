@@ -1,0 +1,18 @@
+body {
+  background-color: aqua;
+  color: blue;
+}
+h1 {
+  font-size: 64px;
+  color: red;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.h1 {
+  color: yellow;
+}
+.title {
+  font-size: 42px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+/*CLASE EN CSS*/
